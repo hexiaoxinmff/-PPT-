@@ -17,6 +17,8 @@ For contracts, money, payments, external communications, personal data, or safet
 
 Choose the deck mode in `references/delivery-modes.md` and the associated page sequence in `references/mode-page-recipes.md`. When the user asks for an outline first or key facts would change the story, follow `references/outline-first.md`; otherwise create directly when the task is sufficiently clear.
 
+For hotel investment feasibility, opening or repositioning proposals with a decision audience, use the management decision mode and read `references/hotel-investment-case.md` for the chapter sequence, page examples, and source and calculation checks. Use it for related reviews when the user asks to check a hotel feasibility deck.
+
 Use the user's template when provided. Without one, establish a restrained visual direction with `references/visual-craft.md`, map information relationships using `references/visual-storytelling.md`, and keep all text and base shapes editable when possible.
 
 ## Diagnose and improve existing PPTs
@@ -34,4 +36,3 @@ When a target application or render is available, review the rendered deck using
 ## Colleague entry
 
 Use `同事使用入口.md` and `同事体验说明.md` for copyable first-run prompts. On Windows, `一键预检.cmd` accepts a dragged `.pptx` and produces a local JSON report without altering the original file.
-
