@@ -21,6 +21,8 @@ For hotel investment feasibility, opening or repositioning proposals with a deci
 
 Use the user's template when provided. Without one, establish a restrained visual direction with `references/visual-craft.md`, map information relationships using `references/visual-storytelling.md`, and keep all text and base shapes editable when possible.
 
+Treat polished design as the default for every new deck and every page being redesigned. Automatically select techniques by audience, task, evidence, page purpose and delivery medium using `references/advanced-slide-techniques.md`. Apply the chosen techniques in the deliverable. For outline-only requests, include the proposed treatment on key pages. For targeted edits, apply the requested scope. Infer whether live playback needs a transition or staged reveal using `references/presentation-motion.md`; implement and verify supported effects, and provide page-specific settings when essential motion cannot be authored.
+
 ## Diagnose and improve existing PPTs
 
 When the user asks for diagnosis, do not edit until they authorize it. Follow `references/revision-diagnosis.md` and `references/aesthetic-judgment.md`. Use `scripts/diagnose_pptx.py <file> --aesthetic` for read-only structure signals when Python and `python-pptx` are available; those signals do not replace a rendered visual review.
