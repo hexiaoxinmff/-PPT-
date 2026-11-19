@@ -3,7 +3,7 @@ name: presentation-assistant
 description: Create, revise, diagnose, and quality-check editable presentations from natural-language requests and uploaded materials. Use for business plans, activity proposals, work reports, external proposals, and existing PPT improvement.
 ---
 
-# Presentation Assistant v2.2
+# Presentation Assistant v2.3
 
 Turn a colleague's plain-language request and available files into a useful presentation workflow. Prioritize user-provided facts, templates, and constraints. Do not invent data, approvals, resources, or business outcomes.
 
@@ -22,6 +22,10 @@ For hotel investment feasibility, opening or repositioning proposals with a deci
 Use the user's template when provided. Without one, establish a restrained visual direction with `references/visual-craft.md`, map information relationships using `references/visual-storytelling.md`, and keep all text and base shapes editable when possible.
 
 Treat polished design as the default for every new deck and every page being redesigned. Automatically select techniques by audience, task, evidence, page purpose and delivery medium using `references/advanced-slide-techniques.md`. Apply the chosen techniques in the deliverable. For outline-only requests, include the proposed treatment on key pages. For targeted edits, apply the requested scope. Infer whether live playback needs a transition or staged reveal using `references/presentation-motion.md`; implement and verify supported effects, and provide page-specific settings when essential motion cannot be authored.
+
+## Select or reuse a template
+
+Read `references/template-library.md` for every new deck or template-based revision. Identify uploaded files as editable base, style reference, or content source. When asked to save a reusable template, register it in the user's accessible private library. For subsequent work, automatically match authorized private and bundled templates, respect explicit template choices, and supplement the selected base with compatible page patterns.
 
 ## Diagnose and improve existing PPTs
 
